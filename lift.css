@@ -1,0 +1,50 @@
+body,html,head{
+    margin: 0;
+    padding: 0;
+}
+.parent{
+    display: flex;
+}
+.floor_parent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.floor{
+    height: 100px;
+    width: 500px;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Fname{
+    font-size: x-large;
+
+}
+.lift{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+}
+.liftParent{
+    display: flex;
+    align-items: end;
+}
+.btn{
+    background-color: #c5ff6c;
+    font-size: large;
+    font-family: system-ui;
+    padding: 13px;
+    border: 0.5px solid #c5ff6c;
+    border-radius: 35px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+    border: 0.5px solid black;
+    cursor: pointer;
+}

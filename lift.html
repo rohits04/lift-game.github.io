@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="lift.css">
+    <link rel="stylesheet" href="lift animation.css">
+    <script defer src="lift game.js"></script>
+    <title>Lift Game</title>
+</head>
+<body>
+    <div class="parent">
+    <div class="floor_parent">
+        <div class="floor" id="5">
+            <span class="Fname">5</span>
+            <button class="btn" onclick=" FifthFloor(5)" id="button5">5 FLOOR</button>
+        </div>
+        <div class="floor" id="4">
+            <span class="Fname">4</span>
+            <button class="btn" onclick="FourthFloor(4)" id="button4">4 FLOOR</button>
+        </div>
+        <div class="floor" id="3">
+            <span class="Fname">3</span>
+            <button class="btn" onclick="ThirdFloor(3)" id="button3">3 FLOOR</button>
+        </div>
+        <div class="floor" id="2">
+            <span class="Fname">2</span>
+            <button class="btn" onclick="SecondFloor(2)" id="button2">2 FLOOR</button>
+        </div>
+        <div class="floor"id="1">
+            <span class="Fname">1</span>
+            <button class="btn" onclick="FirstFloor(1)" id="button1">1 FLOOR</button>
+        </div>
+        <div class="floor" id="0">
+            <span class="Fname">0</span>
+            <button class="btn" onclick="GroundFloor(0)" id="button0">0 FLOOR</button>
+        </div>
+    </div>
+    <div class="liftParent">
+
+        <div class="lift" id="lift"></div>
+    </div>
+</div>
+</body>
+</html>

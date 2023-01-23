@@ -1,0 +1,502 @@
+/* GroundFloor CSS */
+.groundFloor1{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: groundFloor1;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes groundFloor1 {
+    0% {background-color:#a6ff00; bottom:100px}
+    25%{background-color: #a6ff00; bottom: 75px;}
+    50%{background-color: #a6ff00; bottom: 50px;}
+    75%{background-color: #a6ff00; bottom: 25px;}
+    100%{background-color: #a6ff00;bottom: 0px;}
+}
+.groundFloor2{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: groundFloor2;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes groundFloor2 {
+    0% {background-color:#a6ff00; bottom:200px}
+    25%{background-color: #a6ff00; bottom: 150px;}
+    50%{background-color: #a6ff00; bottom: 100px;}
+    75%{background-color: #a6ff00; bottom: 50px;}
+    100%{background-color: #a6ff00;bottom: 0px;}
+}
+.groundFloor3{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: groundFloor3;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes groundFloor3 {
+    0% {background-color:#a6ff00; bottom:300px}
+    25%{background-color: #a6ff00; bottom: 250px;}
+    50%{background-color: #a6ff00; bottom: 150px;}
+    75%{background-color: #a6ff00; bottom: 75px;}
+    100%{background-color: #a6ff00;bottom: 0px;}
+}
+.groundFloor4{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: groundFloor4;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes groundFloor4 {
+    0% {background-color:#a6ff00; bottom:400px}
+    25%{background-color: #a6ff00; bottom: 250px;}
+    50%{background-color: #a6ff00; bottom: 150px;}
+    75%{background-color: #a6ff00; bottom: 75px;}
+    100%{background-color: #a6ff00;bottom: 0px;}
+}
+.groundFloor5{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: groundFloor5;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes groundFloor5 {
+    0% {background-color:#a6ff00; bottom:510px}
+    25%{background-color: #a6ff00; bottom: 350px;}
+    50%{background-color: #a6ff00; bottom: 250px;}
+    75%{background-color: #a6ff00; bottom: 150px;}
+    100%{background-color: #a6ff00;bottom: 0px;}
+}
+
+/* firstFloor CSS */
+.firstFloor{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: firstFloor;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes firstFloor {
+    0% {background-color:#a6ff00; bottom:0px}
+    50%{background-color: #a6ff00; bottom: 50px;}
+    100%{background-color: #a6ff00;bottom: 102px;}
+}
+.firstFloor2{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: firstFloor2;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes firstFloor2 {
+    0% {background-color:#a6ff00; bottom:204px}
+    50%{background-color: #a6ff00; bottom: 150px;}
+    100%{background-color: #a6ff00;bottom: 102px;}
+}
+.firstFloor3{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: firstFloor3;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes firstFloor3 {
+    0% {background-color:#a6ff00; bottom:306px}
+    50%{background-color: #a6ff00; bottom: 150px;}
+    100%{background-color: #a6ff00;bottom: 102px;}
+}
+.firstFloor4{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: firstFloor4;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes firstFloor4 {
+    0% {background-color:#a6ff00; bottom:408px}
+    50%{background-color: #a6ff00; bottom: 250px;}
+    100%{background-color: #a6ff00;bottom: 102px;}
+}
+.firstFloor5{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: firstFloor5;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes firstFloor5 {
+    0% {background-color:#a6ff00; bottom:510px}
+    50%{background-color: #a6ff00; bottom: 250px;}
+    100%{background-color: #a6ff00;bottom: 102px;}
+}
+
+/* secondFloor  CSS */
+
+.secondFloor{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: secondFloor;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes secondFloor {
+    0% {background-color:#a6ff00; bottom:0px}
+    50%{background-color: #a6ff00; bottom: 100px;}
+    100%{background-color: #a6ff00;bottom: 204px;}
+}
+.secondFloor1{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: secondFloor1;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes secondFloor1 {
+    0% {background-color:#a6ff00; bottom:102px}
+    50%{background-color: #a6ff00; bottom: 150px;}
+    100%{background-color: #a6ff00;bottom: 204px;}
+}
+.secondFloor3{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: secondFloor3;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes secondFloor3 {
+    0% {background-color:#a6ff00; bottom:306px}
+    50%{background-color: #a6ff00; bottom: 250px;}
+    100%{background-color: #a6ff00;bottom: 204px;}
+}
+.secondFloor4{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: secondFloor4;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes secondFloor4 {
+    0% {background-color:#a6ff00; bottom:408px}
+    50%{background-color: #a6ff00; bottom: 250px;}
+    100%{background-color: #a6ff00;bottom: 204px;}
+}
+.secondFloor5{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: secondFloor5;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes secondFloor5 {
+    0% {background-color:#a6ff00; bottom:510px}
+    50%{background-color: #a6ff00; bottom: 250px;}
+    100%{background-color: #a6ff00;bottom: 204px;}
+}
+
+/* Thrid Floor CSS */
+.thirdFloor{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: thirdFloor;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes thirdFloor {
+    0% {background-color:#a6ff00; bottom:0px}
+    50%{background-color: #a6ff00; bottom: 150px;}
+    100%{background-color: #a6ff00;bottom: 306px;}
+}
+.thirdFloor1{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: thirdFloor1;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes thirdFloor1 {
+    0% {background-color:#a6ff00; bottom:102px}
+    50%{background-color: #a6ff00; bottom: 150px;}
+    100%{background-color: #a6ff00;bottom: 306px;}
+}
+.thirdFloor2{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: thirdFloor2;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes thirdFloor2 {
+    0% {background-color:#a6ff00; bottom:204px}
+    50%{background-color: #a6ff00; bottom: 250px;}
+    100%{background-color: #a6ff00;bottom: 306px;}
+}
+.thirdFloor4{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: thirdFloor4;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes thirdFloor4{
+    0% {background-color:#a6ff00; bottom:408px}
+    50%{background-color: #a6ff00; bottom: 350px;}
+    100%{background-color: #a6ff00;bottom: 306px;}
+}
+.thirdFloor5{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: thirdFloor5;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes thirdFloor5{
+    0% {background-color:#a6ff00; bottom:510px}
+    50%{background-color: #a6ff00; bottom: 350px;}
+    100%{background-color: #a6ff00;bottom: 306px;}
+}
+
+/* fourth Floor CSS */
+.fourhtFloor{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: fourthFloor;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes fourthFloor {
+    0% {background-color:#a6ff00; bottom:0px}
+    50%{background-color: #a6ff00; bottom: 200px;}
+    100%{background-color: #a6ff00;bottom: 408px;}
+}
+.fourhtFloor1{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: fourthFloor1;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes fourthFloor1 {
+    0% {background-color:#a6ff00; bottom:102px}
+    50%{background-color: #a6ff00; bottom: 200px;}
+    100%{background-color: #a6ff00;bottom: 408px;}
+}
+.fourhtFloor2{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: fourthFloor2;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes fourthFloor2 {
+    0% {background-color:#a6ff00; bottom:204px}
+    50%{background-color: #a6ff00; bottom: 250px;}
+    100%{background-color: #a6ff00;bottom: 408px;}
+}
+.fourhtFloor3{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: fourthFloor3;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes fourthFloor3 {
+    0% {background-color:#a6ff00; bottom:306px}
+    50%{background-color: #a6ff00; bottom: 350px;}
+    100%{background-color: #a6ff00;bottom: 408px;}
+}
+.fourhtFloor5{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: fourthFloor5;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes fourthFloor5{
+    0% {background-color:#a6ff00; bottom:510px}
+    50%{background-color: #a6ff00; bottom: 450px;}
+    100%{background-color: #a6ff00;bottom: 408px;}
+}
+
+/* FifthFloor CSS */
+.fifthFloor{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: fifthFloor;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes fifthFloor {
+    0% {background-color:#a6ff00; bottom:0px}
+    50%{background-color: #a6ff00; bottom: 250px;}
+    100%{background-color: #a6ff00;bottom: 510px;}
+}
+.fifthFloor1{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: fifthFloor1;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes fifthFloor1 {
+    0% {background-color:#a6ff00; bottom:102px}
+    50%{background-color: #a6ff00; bottom: 250px;}
+    100%{background-color: #a6ff00;bottom: 510px;}
+}
+.fifthFloor2{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: fifthFloor2;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes fifthFloor2 {
+    0% {background-color:#a6ff00; bottom:204px}
+    50%{background-color: #a6ff00; bottom: 250px;}
+    100%{background-color: #a6ff00;bottom: 510px;}
+}
+.fifthFloor3{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: fifthFloor3;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes fifthFloor3 {
+    0% {background-color:#a6ff00; bottom:306px}
+    50%{background-color: #a6ff00; bottom: 350px;}
+    100%{background-color: #a6ff00;bottom: 510px;}
+}
+.fifthFloor4{
+    height: 100px;
+    width: 200px;
+    background-color: #a6ff00;
+    border: 1px solid #a6ff00;
+    animation: fifthFloor4;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+@keyframes fifthFloor4 {
+    0% {background-color:#a6ff00; bottom:408px}
+    50%{background-color: #a6ff00; bottom: 450px;}
+    100%{background-color: #a6ff00;bottom: 510px;}
+}
